@@ -20,11 +20,11 @@ A Generative AI project that transforms sketches into artistic images using Stab
 
 ### Oil Pastel Output
 
-![Bird Oil Pastel](bird_output1(oilpasteled).png)
+![Bird Oil Pastel](bird_output1_oilpasteled.png)
 
 ### Watercolor Output
 
-![Bird Watercolor](bird_output2(watercolored).png)
+![Bird Watercolor](bird_output2_watercolored.png)
 
 ## Example 2: House
 
@@ -34,9 +34,11 @@ A Generative AI project that transforms sketches into artistic images using Stab
 
 ### Abstract Output
 
-![House Abstract](house_output1(abstract).png)
+![House Abstract](house_output1_abstract.png)
 
 ### Mosaic Output
+
+![House Abstract](house_output2_mosaic.png)
 
 ![House Mosaic](house_output2(mosaic).png)
 
