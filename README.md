@@ -40,8 +40,6 @@ A Generative AI project that transforms sketches into artistic images using Stab
 
 ![House Abstract](house_output2_mosaic.png)
 
-![House Mosaic](house_output2(mosaic).png)
-
 ## Author
 
 Dhanush HM
