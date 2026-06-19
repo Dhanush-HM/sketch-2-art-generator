@@ -1,5 +1,7 @@
 # Sketch to Art Generator
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([PASTE_YOUR_COLAB_LINK_HERE](https://colab.research.google.com/github/Dhanush-HM/sketch-2-art-generator/blob/main/Sketch2Art.ipynb))
+
 A Generative AI project that transforms sketches into artistic images using Stable Diffusion and ControlNet.
 
 ## Technologies Used
